@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 ?>
@@ -9,7 +9,7 @@ use yii\widgets\ActiveForm;
 	<?= $form->field($model, 'email') ?>
 	
 	<div class="form-group">
-		<?= Html::submitButton('‘—M', ['class' => 'btn btn-primary']) ?>
+		<?= Html::submitButton('é€ä¿¡', ['class' => 'btn btn-primary']) ?>
 	</div>
 	
 <?php ActiveFrom::end(); ?>
