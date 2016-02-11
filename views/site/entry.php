@@ -12,4 +12,4 @@ use yii\widgets\ActiveForm;
 		<?= Html::submitButton('送信', ['class' => 'btn btn-primary']) ?>
 	</div>
 	
-<?php ActiveFrom::end(); ?>
+<?php ActiveForm::end(); ?>

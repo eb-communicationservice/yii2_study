@@ -1,10 +1,10 @@
-<?php
+﻿<?php
 use yii\helpers\Html;
 ?>
 
-<p>���Ȃ��͎��̏�����͂��܂���</p>
+<p>あなたは次の情報を入力しました</p>
 
 <ul>
-	<li><label>���O</label>: <?= Html::encode($model->name) ?></li>
-	<li><label>���[��</label>: <?= Html::encode($model->email) ?></li>
+	<li><label>名前</label>: <?= Html::encode($model->name) ?></li>
+	<li><label>メール</label>: <?= Html::encode($model->email) ?></li>
 </ul>
